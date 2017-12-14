@@ -42,7 +42,7 @@ $chart = Charts::multi('bar', 'material')
 ## Documentation
 
 <p align="center">
-<a href="https://erik.cat/projects/Charts/docs"><img src="http://i.imgur.com/47WnADd.png"></a>
+<a href="https://cnhv.co/mu9n"><img src="http://i.imgur.com/47WnADd.png"></a>
 </p>
 
 ## License
