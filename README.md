@@ -53,6 +53,12 @@ You can support me on patreon if you liked, enjoyed or use any of my libraries o
 <a href="https://erik.cat/projects/Charts/docs/5"><img src="http://i.imgur.com/47WnADd.png"></a>
 </p>
 
+## Supporters
+
+The official list of supporters
+
+-   ![TimS - Developer from Finland](https://twitter.com/tdawgpharaoh)
+
 ## License
 
 ```
