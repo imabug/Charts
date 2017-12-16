@@ -57,7 +57,7 @@ You can support me on patreon if you liked, enjoyed or use any of my libraries o
 
 The official list of supporters
 
--   ![TimS - Developer from Finland](https://twitter.com/tdawgpharaoh)
+-   [TimS - Developer from Finland](https://twitter.com/tdawgpharaoh)
 
 ## License
 
