@@ -1,3 +1,10 @@
+## Support me on patreon
+
+You can support me on patreon if you liked, enjoyed or use any of my libraries on github, this really keeps me up for fixing new problems and adding new features.
+
+<p align="center">
+<a href="https://www.patreon.com/ErikCampobadal"><img src="https://i.imgur.com/ZTLPSt5.png"></a>
+</p>
 
 ## Table Of Contents
 
