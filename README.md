@@ -39,6 +39,16 @@ $chart = Charts::multi('bar', 'material')
             ->labels(['One', 'Two', 'Three']);
 ```
 
+## Comming Soon
+
+<p align="center">
+    <img src="https://image.prntscr.com/image/YCJjBypAQpu86PL-UiY_qA.png">
+</p>
+
+Simplistic charts, perfect to fit in places where no extra information is needed. Only chartjs will be supported this time!
+
+Remember, no axis, no labels, no tooltips!
+
 ## Support me on patreon
 
 You can support me on patreon if you liked, enjoyed or use any of my libraries on github, this really keeps me up for fixing new problems and adding new features.
